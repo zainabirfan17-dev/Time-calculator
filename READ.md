@@ -31,8 +31,8 @@ cd TIME-CALCULATOR
 Run the script with Python:
 ```bash
 python time_calculator.py
-
-
+```
+```bash
 Or import it in another Python script:
 
 from time_calculator import add_time
