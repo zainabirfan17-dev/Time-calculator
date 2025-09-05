@@ -55,7 +55,7 @@ print(add_time('3:00 PM', '3:10'))
 ## 🎥 Explanation Video
 
 For a detailed walkthrough of this problem, check out this video:
-YouTube – Time Calculator Explanation
+[YouTube – Time Calculator Explanation](https://youtu.be/zjYpfpFS-p8)
 
 ## 📜 License
 
@@ -65,4 +65,4 @@ This project is licensed under the MIT License
 ## 👩‍💻 Author
 
 Zainab Irfan
-🔗 GitHub Profile
+🔗 [GitHub Profile](https://github.com/zainabirfan17-dev) 
