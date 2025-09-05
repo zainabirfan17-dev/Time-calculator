@@ -70,5 +70,5 @@ This project is licensed under the MIT License
 ## 👩‍💻 Author
 
 Zainab Irfan
-[GitHub Profile](https://github.com/zainabirfan17-dev) ```
+[GitHub Profile](https://github.com/zainabirfan17-dev) 
 
