@@ -32,9 +32,9 @@ Run the script with Python:
 ```bash
 python time_calculator.py
 ```
-```bash
-Or import it in another Python script:
 
+Or import it in another Python script:
+```bash
 from time_calculator import add_time
 
 print(add_time('3:00 PM', '3:10'))
