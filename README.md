@@ -29,7 +29,7 @@ cd TIME-CALCULATOR
 ## 🚀 Usage
 
 Run the script with Python:
-
+```bash
 python time_calculator.py
 
 
@@ -42,10 +42,10 @@ from time_calculator import add_time
 
 print(add_time('3:00 PM', '3:10'))
 # Output: 6:10 PM
-
+```
 
 ## More examples:
-
+```bash
 >>> add_time('11:30 AM', '2:32', 'Monday')
 '2:02 PM, Monday'
 
@@ -54,7 +54,7 @@ print(add_time('3:00 PM', '3:10'))
 
 >>> add_time('11:43 PM', '24:20', 'tueSday')
 '12:03 AM, Thursday (2 days later)'
-
+```
 
 ## 🎥 Explanation Video
 
