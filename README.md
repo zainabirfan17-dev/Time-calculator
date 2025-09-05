@@ -25,7 +25,7 @@ Clone this repository to your local machine:
 git clone https://github.com/zainabirfan17-dev/TIME-CALCULATOR.git
 cd TIME-CALCULATOR
 
-##🚀 Usage
+## 🚀 Usage
 
 Run the script with Python:
 
@@ -55,18 +55,18 @@ print(add_time('3:00 PM', '3:10'))
 '12:03 AM, Thursday (2 days later)'
 
 
-##🎥 Explanation Video
+## 🎥 Explanation Video
 
 For a detailed walkthrough of this problem, check out this video:
 [YouTube – Time Calculator Explanation](https://youtu.be/zjYpfpFS-p8)
 
 
-##📜 License
+## 📜 License
 
 This project is licensed under the MIT License
 .
 
-##👩‍💻 Author
+## 👩‍💻 Author
 
 Zainab Irfan
 [GitHub Profile](https://github.com/zainabirfan17-dev)
