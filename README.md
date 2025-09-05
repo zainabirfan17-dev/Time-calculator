@@ -24,7 +24,7 @@ Clone this repository to your local machine:
 ```bash
 git clone https://github.com/zainabirfan17-dev/TIME-CALCULATOR.git
 cd TIME-CALCULATOR
-🚀 Usage
+**##🚀 Usage**
 
 Run the script with Python:
 
