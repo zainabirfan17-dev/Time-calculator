@@ -24,14 +24,18 @@ Clone this repository to your local machine:
 ```bash
 git clone https://github.com/zainabirfan17-dev/TIME-CALCULATOR.git
 cd TIME-CALCULATOR
-**##🚀 Usage**
+
+##🚀 Usage
 
 Run the script with Python:
 
 python time_calculator.py
 
 
+
 Or import it in another Python script:
+
+
 
 from time_calculator import add_time
 
@@ -39,7 +43,7 @@ print(add_time('3:00 PM', '3:10'))
 # Output: 6:10 PM
 
 
-More examples:
+## More examples:
 
 >>> add_time('11:30 AM', '2:32', 'Monday')
 '2:02 PM, Monday'
@@ -50,17 +54,20 @@ More examples:
 >>> add_time('11:43 PM', '24:20', 'tueSday')
 '12:03 AM, Thursday (2 days later)'
 
-🎥 Explanation Video
+
+##🎥 Explanation Video
 
 For a detailed walkthrough of this problem, check out this video:
-YouTube – Time Calculator Explanation
+[YouTube – Time Calculator Explanation](https://youtu.be/zjYpfpFS-p8)
 
-📜 License
+
+##📜 License
 
 This project is licensed under the MIT License
 .
 
-👩‍💻 Author
+##👩‍💻 Author
 
 Zainab Irfan
-🔗 GitHub Profile
+[GitHub Profile](https://github.com/zainabirfan17-dev)
+
