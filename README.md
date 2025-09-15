@@ -22,8 +22,8 @@ It supports **12-hour format (AM/PM)**, handles **day rollovers**, and can also 
 Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/zainabirfan17-dev/TIME-CALCULATOR.git
-cd TIME-CALCULATOR
+git clone https://github.com/zainabirfan17-dev/Time-calculator.git
+cd Time-calculator
 ```
 
 ## 🚀 Usage
